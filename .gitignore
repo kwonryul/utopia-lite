@@ -1,0 +1,8 @@
+kit.git-config.edn
+.nrepl-port
+.cpcache/
+target/
+log/
+.shadow-cljs/
+node_modules/
+modules/
